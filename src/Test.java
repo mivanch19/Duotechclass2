@@ -23,6 +23,7 @@ public class Test {
 
     public double getInterestRate() {
         return interestRate;
+        //my new comment
     }
 
     protected String ssn;
